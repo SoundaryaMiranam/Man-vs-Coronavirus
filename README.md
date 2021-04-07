@@ -1,2 +1,2 @@
 # COVID-19-Analysis-Visualization
-Data analysis and visualization of the worldwide spread of CORONA virus.
+Novel strain coronavirus - (SARS-CoV-2) - the first case was identified in Wuhan in December 2019.The disease has since spread worldwide, leading to an ongoing pandemic by World Health Organization.Let's do the analysis of Coronovirus.
