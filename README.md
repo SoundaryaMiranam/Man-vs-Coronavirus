@@ -5,5 +5,14 @@ Data is in CSV format and is updated daily.The data is hosted by the team at <a 
 # Overview
 I have tried to understand and visualize the spread of Covid-19 using different ploting techniques Pandas, Numpy, matplotlib, seaborn and Plotly.
 
+Let's Look at Some Important and Interesting Points Regarding Corona:
+
+
+1. How is Corona growing Worldwide?High level overview of data in all columns.
+2. What are the ratios of recovered,confirmed and death cases?
+3. Comparing different countries on the basis of no.of Confirmed and death cases.
+4. What does the country-wise infection trend look like?
+5. Which countries should we be worried?
+
 The number of cases and deaths worldwide have been growing with proper measures the outbreak can be brought under control. 
 Let’s hope and pray for a speedy end to the outbreak and don't forget to wash your hands!
