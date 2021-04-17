@@ -26,9 +26,9 @@ act = '#fe9801' # active case - yellow
 import warnings
 warnings.filterwarnings('ignore')
 
-corona_confirmed_df = pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
-corona_deaths_df = pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")
-corona_recovered_df =pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv")
+corona_confirmed_df = pd.read_csv("  . ./csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
+corona_deaths_df = pd.read_csv("  . ./CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")
+corona_recovered_df =pd.read_csv("  . ./CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv")
 
 corona_confirmed_df.head()
 
