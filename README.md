@@ -3,4 +3,7 @@ Novel strain coronavirus disease caused by - (SARS-CoV-2) - the first case was i
 # Data source
 Data is in CSV format and is updated daily.The data is hosted by the team at <a href="https://github.com/CSSEGISandData">Johns Hopkins University Center for Systems Science and Engineering (CSSE)</a> who have been doing a great job by collating data from around the world.There are three files that contain Total Confirmed Cases, Deaths and Recoveries.
 # Overview
-I have tried to understand and visualize the spread of Covid-19 using Pandas, Numpy and Plotly.
+I have tried to understand and visualize the spread of Covid-19 using different ploting techniques Pandas, Numpy, matplotlib, seaborn and Plotly.
+
+The number of cases and deaths worldwide have been growing with proper measures the outbreak can be brought under control. 
+Let’s hope and pray for a speedy end to the outbreak and don't forget to wash your hands!
