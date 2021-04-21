@@ -1,11 +1,15 @@
 # Motivation
-Novel strain coronavirus disease caused by - (SARS-CoV-2) - the first case was identified in Wuhan in December 2019.The disease has since spread worldwide, leading to an ongoing pandemic by World Health Organization.A million cases have been confirmed, and the number keeps getting higher every day.Let's do the analysis on the  spread of Coronovirus.
+Novel strain coronavirus disease caused by - (SARS-CoV-2) - the first case was identified in Wuhan in December 2019.The disease has since spread worldwide, leading to an ongoing pandemic by World Health Organization.A million cases have been confirmed, and the number keeps getting higher every day.
+There is really no way to communicate the pandemic other than through data.
+
 # Data source
 Data is in CSV format and is updated daily.The data is hosted by the team at <a href="https://github.com/CSSEGISandData">Johns Hopkins University Center for Systems Science and Engineering (CSSE)</a> who have been doing a great job by collating data from around the world.There are three files that contain Total Confirmed Cases, Deaths and Recoveries.
 # Overview
 Tried to understand and visualize the spread of Covid-19 using different python libraries which are used in exploratory data analysis  NumPy, Pandas, Matplotlib, Seaborn, and Plotly.Just craving narratives and informationto to help us understand what is happening.
 
-Let's Look at Some Important and Interesting Points Regarding Corona:
+Let's do the analysis on the  spread of Coronovirus
+
+Some Important and Interesting Points Regarding Corona:
 
 
 1. How is Corona growing Worldwide?High level overview of data in all columns.
